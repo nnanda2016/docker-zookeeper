@@ -1,4 +1,4 @@
-FROM openjdk:11-dk-slim
+FROM openjdk:11-jdk-slim
 
 LABEL maintainer="niranjan.nanda2011@gmail.com"
 
